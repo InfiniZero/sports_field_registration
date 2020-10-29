@@ -1,6 +1,6 @@
 ﻿# Accurate Sports Field Registration
 
-This repo holds the codes of paper: "Cascaded Framework for Accurate Sports Field Registration on Broadcast Videos".
+This repo holds the code of paper: "Cascaded Framework for Accurate Sports Field Registration on Broadcast Videos".
 
 ![Figure1](./pics/figure1.png)
 
@@ -12,11 +12,11 @@ Our method consists of four modules including: a) boundary-aware semantic segmen
 
 ## Dependencies
 
-* Python == 3.6
-* Pytorch ==1.3
-* CUDA == 10.0
-* OpenCV == 3.1
-* Scipy == 1.5
+* Python >= 3.6
+* Pytorch
+* CUDA
+* OpenCV
+* Scipy
 
 ## Data setup
 
