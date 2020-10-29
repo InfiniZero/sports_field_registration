@@ -6,7 +6,7 @@ This repo holds the code of paper: "Cascaded Framework for Accurate Sports Field
 
 ## Overview
 
-Our method consists of four modules including: a) boundary-aware semantic segmentation for field images under the normal view; b) homography initial prediction via a common neural network; c) homography refinement based on an iterative scheme; d) distance-field optimization scheme to minimize a cost function related to the homography transform. All four modules constitute the cascaded framework.
+Our method consists of four modules including: **a)** boundary-aware semantic segmentation for field images under the normal view; **b)** homography initial prediction via a common neural network; **c)** homography refinement based on an iterative scheme; **d)** distance-field optimization scheme to minimize a cost function related to the homography transform. All four modules constitute the cascaded framework.
 
 ![Figure2](./pics/figure2.png)
 
@@ -86,7 +86,7 @@ python train_initH.py
 python train_refineH.py
 ```
 
-## Create New dataset
+## Create new dataset
 
 We provide a simple homography annotator [here](https://github.com/InfiniZero/homography_annotator) for new dataset creation.
 
