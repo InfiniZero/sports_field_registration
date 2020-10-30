@@ -88,7 +88,7 @@ python train_refineH.py
 
 ## Create new dataset
 
-We provide a simple homography annotator [here](https://github.com/InfiniZero/homography_annotator) for new dataset creation.
+We provide a simple **homography annotator** [here](https://github.com/InfiniZero/homography_annotator) for new dataset creation.
 
 
 
